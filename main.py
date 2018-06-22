@@ -11,6 +11,9 @@ def sub(x, y):
 def div(x, y):
     return x / y
 
+def same(x, y):
+    return x == y
+
 def main():
     add(1024, 1024)
     multiple(8, 8)
