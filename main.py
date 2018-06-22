@@ -11,6 +11,9 @@ def sub(x, y):
 def div(x, y):
     return x / y
 
+def same(x, y):
+    return x == y
+
 def ppow(x, y):
     return pow(x, y)
 
